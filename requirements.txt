@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+torch
+pytesseract
+Pillow
+python-dotenv
+requests
+transformers>=4.38.0
