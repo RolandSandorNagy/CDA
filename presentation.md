@@ -80,7 +80,7 @@
 
 ## 🙌 Thank You!
 
-**Author**: [Your Name]  
+**Author**: Roland Sándor Nagy
 **Institution**: ELTE MSc in AI  
 **Model Host**: ELTE GenAI endpoint (Qwen-32B)  
-**Contact**: [your email or GitHub]
+**Contact**: roland.s.nagy@gmail.com | https://github.com/RolandSandorNagy
